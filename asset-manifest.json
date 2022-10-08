@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c59cc657.css",
-    "main.js": "/react-portfolio/static/js/main.4929c3b1.js",
-    "static/media/web-api-code-quiz.gif": "/react-portfolio/static/media/web-api-code-quiz.f247398079fa19f55622.gif",
-    "static/media/Weather_Dashboard.gif": "/react-portfolio/static/media/Weather_Dashboard.68ddd059a29c26b10e3c.gif",
-    "static/media/scheduler.gif": "/react-portfolio/static/media/scheduler.5bac6be38c6c9b1bcad9.gif",
-    "static/media/iBetter.png": "/react-portfolio/static/media/iBetter.2beeb6bfe2c910f5307c.png",
-    "static/media/it-me.png": "/react-portfolio/static/media/it-me.64c950bcb4495187d084.png",
-    "static/media/demoGif.gif": "/react-portfolio/static/media/demoGif.887e639e8f8d541ee446.gif",
-    "static/media/Eat.png": "/react-portfolio/static/media/Eat.c6e9abac4563386fbb7b.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.c59cc657.css.map": "/react-portfolio/static/css/main.c59cc657.css.map",
-    "main.4929c3b1.js.map": "/react-portfolio/static/js/main.4929c3b1.js.map"
+    "main.css": "/static/css/main.c59cc657.css",
+    "main.js": "/static/js/main.0c95c0e8.js",
+    "static/media/web-api-code-quiz.gif": "/static/media/web-api-code-quiz.f247398079fa19f55622.gif",
+    "static/media/Weather_Dashboard.gif": "/static/media/Weather_Dashboard.68ddd059a29c26b10e3c.gif",
+    "static/media/scheduler.gif": "/static/media/scheduler.5bac6be38c6c9b1bcad9.gif",
+    "static/media/iBetter.png": "/static/media/iBetter.2beeb6bfe2c910f5307c.png",
+    "static/media/it-me.png": "/static/media/it-me.64c950bcb4495187d084.png",
+    "static/media/demoGif.gif": "/static/media/demoGif.887e639e8f8d541ee446.gif",
+    "static/media/Eat.png": "/static/media/Eat.c6e9abac4563386fbb7b.png",
+    "index.html": "/index.html",
+    "main.c59cc657.css.map": "/static/css/main.c59cc657.css.map",
+    "main.0c95c0e8.js.map": "/static/js/main.0c95c0e8.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.4929c3b1.js"
+    "static/js/main.0c95c0e8.js"
   ]
 }
