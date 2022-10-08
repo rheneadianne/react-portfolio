@@ -46,4 +46,10 @@ const myStuff = [
     }
 ]
 
+function Portfolio() {
+
+}
+
+export default Portfolio;
+
 // ill do the html later one second

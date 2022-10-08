@@ -15,7 +15,7 @@ function Footer() {
               <FaLinkedin />
             </li>
           </a>
-          <a href="hhttps://twitter.com/rheneadianne" target="blank">
+          <a href="https://twitter.com/rheneadianne" target="blank">
             <li>
               <FaTwitter />
             </li>

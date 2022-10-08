@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { validateEmail } from '../../utils/helpers';
+import { validateEmail } from '../util/helper';
 
 function Contact() {
     const [contactState, setContactState] = useState({ contactName: '', email: '', body: '' })
@@ -24,9 +24,11 @@ function Contact() {
         }
 
         if (!errorModalState) {
-            setContactState({ ...contactState, [e.target.name]: e.target.value })
+            setContactState({ ...contactState, [event.target.name]: event.target.value })
         }
     }
 }
+
+export default Contact;
 
 //ill deal with the html in a bit
