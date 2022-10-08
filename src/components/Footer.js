@@ -3,25 +3,23 @@ import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 function Footer() {
   return (
-      <footer>
-        <ul>
+    <footer>
+      <ul class="nav justify-content-center display-2">
+        <li class="nav-item m-5">
           <a href="https://github.com/rheneadianne" target="blank">
-            <li>
-              <FaGithub />
-            </li>
+            <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/rhenea/" target="blank">
-            <li>
-              <FaLinkedin />
-            </li>
-          </a>
-          <a href="https://twitter.com/rheneadianne" target="blank">
-            <li>
-              <FaTwitter />
-            </li>
-          </a>
-        </ul>
-      </footer>
+        </li>
+
+        <li class="nav-item m-5"><a href="https://www.linkedin.com/in/rhenea/" target="blank">
+          <FaLinkedin /></a>
+        </li>
+
+        <li class="nav-item m-5"><a href="https://twitter.com/rheneadianne" target="blank">
+          <FaTwitter /></a>
+        </li>
+      </ul>
+    </footer>
   );
 };
 
