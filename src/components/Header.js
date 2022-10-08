@@ -25,7 +25,7 @@ function Header() {
 
   return (
     <main>
-      <div>{renderPage(currentPage)}</div>
+      <section>{renderPage(currentPage)}</section>
     </main>
   )
 
