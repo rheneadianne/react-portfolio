@@ -11,8 +11,8 @@ import Work from './../assets/images/scheduler.gif'
 
 const items = [
     {
-        title: 'IBetter',
-        desc: 'Track your habits on a server, anywhere, everywhere',
+        title: 'Bracket Buster',
+        desc: 'Interactive MERN single-page application that generates a tournament bracket based on a user-specified number of teams.',
         repo: 'https://github.com/jcgcristel/tournament-bracket',
         live: 'https://gentle-inlet-68782.herokuapp.com/',
         imageImport: Tournament
