@@ -1,5 +1,6 @@
 import React from "react";
 import PortfolioItems from "./PortfolioItems";
+import Tournament from './../assets/images/tournament.png'
 import iBetter from './../assets/images/iBetter.png'
 import Vent from './../assets/images/demoGif.gif'
 import Eat from './../assets/images/Eat.png'
@@ -9,6 +10,13 @@ import Work from './../assets/images/scheduler.gif'
 
 
 const items = [
+    {
+        title: 'IBetter',
+        desc: 'Track your habits on a server, anywhere, everywhere',
+        repo: 'https://github.com/jcgcristel/tournament-bracket',
+        live: 'https://gentle-inlet-68782.herokuapp.com/',
+        imageImport: Tournament
+    },
     {
         title: 'IBetter',
         desc: 'Track your habits on a server, anywhere, everywhere',
